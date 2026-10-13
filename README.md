@@ -1,3 +1,4 @@
+
 # Hi, I'm Manoj Kumar Leburu 👋
 
 ## About Me
@@ -15,7 +16,7 @@ My interests include:
 - Customer Analytics
 - Generative AI
 - Data Visualization
-- AI-driven business solutions
+- AI-driven Business Solutions
 
 ## Technical Skills
 
@@ -42,13 +43,16 @@ Git, GitHub, SharePoint
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### ForecastIQ — AI-Driven Food Demand Forecasting & Production Optimization
+### 1. ForecastIQ — AI-Driven Food Demand Forecasting & Production Optimization
+
+**Project Type:** Master's Capstone Project  
+**Completion:** September 2026
 
 ForecastIQ is my Master's capstone project focused on using AI and machine learning to improve demand forecasting for quick-service restaurants and cloud kitchens.
 
-### Key Highlights
+#### Key Highlights
 
 - Designed an AI-driven demand forecasting solution for restaurants and cloud kitchens.
 - Analysed anonymized historical restaurant sales data.
@@ -60,7 +64,7 @@ ForecastIQ is my Master's capstone project focused on using AI and machine learn
   - Holidays
   - Promotions
 - Achieved an estimated **23% improvement in MAPE** compared with a moving-average forecasting baseline.
-- Estimated potential food-waste reduction of **18–31%** depending on product category.
+- Estimated potential food-waste reduction of **18–31%**, depending on product category.
 - Designed an end-to-end architecture using:
   - Python
   - AWS SageMaker
@@ -75,16 +79,46 @@ ForecastIQ is my Master's capstone project focused on using AI and machine learn
 
 ---
 
+### 2. Job Classification Using Machine Learning Algorithms
+
+**Project Type:** B.Tech Project  
+**Project Completion:** July 2022
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+- Developed an interactive web application to explore job-related data and predict job classifications using machine learning.
+- Used Python, Pandas, NumPy, and Scikit-learn for data preprocessing and machine learning experimentation.
+- Compared machine learning classification algorithms and evaluated their predictive performance.
+- Built an interactive Streamlit interface to display model results and job classification predictions.
+
+**Source Code:** [View Job Classification Project on GitHub](https://github.com/Manojkumareburu-ai/job-classification-ml)
+
+---
+
 ## Professional Experience
 
 ### Data Analyst Trainee
-**Young Minds Technology Solutions Pvt. Ltd.**
+
+**Young Minds Technology Solutions Pvt. Ltd.**  
+Tirupati, India
 
 - Reduced manual reporting time by **40%** using automated Power BI dashboards connected to SQL data sources.
 - Identified a **EUR 25K+ monthly revenue gap** through regional performance analysis.
 - Improved campaign targeting accuracy by **18%** using RFM-based customer segmentation.
 - Improved reporting accuracy by **22%** by resolving inconsistencies across CRM and transactional datasets.
 - Built KPI monitoring and reporting solutions for Sales, Marketing, and Finance teams.
+
+---
+
+## Education
+
+### Master's in Business Analytics and Data Science
+**EU Business School**  
+Munich, Germany | April 2024 – September 2026
+
+### Bachelor's Degree
+**Annamacharya Institute of Technology and Sciences**  
+Tirupati, India | June 2018 – February 2023
 
 ---
 
@@ -98,43 +132,50 @@ I am currently strengthening my skills in:
 - Data Science
 - MLOps
 - Customer Analytics
-- AI applications in business
+- AI Applications in Business
+
+---
+
+## Certifications
+
+- AWS Cloud Practitioner
+- Business Analytics with Excel
+- SQL Basic
+- Problem Solving in C
+
+---
+
+## Languages
+
+- **English:** TOEFL 89/120
+- **German:** A1 — currently improving
 
 ---
 
 ## Connect With Me
 
 **LinkedIn:**  
-https://www.linkedin.com/in/manoj-kumar-leburu-b11a97222
+[linkedin.com/in/manoj-kumar-leburu-b11a97222](https://www.linkedin.com/in/manoj-kumar-leburu-b11a97222)
 
 **Email:**  
-leburumanojkumar@gmail.com
+[leburumanojkumar@gmail.com](mailto:leburumanojkumar@gmail.com)
 
 ---
 
 ## Open to Opportunities
 
-I am interested in opportunities in:
+I am interested in full-time opportunities in:
 
 - Data Analyst
 - Business Analyst
-- Business Intelligence
+- Business Intelligence Analyst
 - Data Science
 - Machine Learning
 - AI & Analytics
-- Working Student roles in Data Science / Analytics
+- Business Analytics
 
-<!--
-**Manojkumarleburu-ai/Manojkumarleburu-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am open to opportunities in Germany and internationally.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Thank you for visiting my profile! Feel free to explore my projects and connect with me.*
